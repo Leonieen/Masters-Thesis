@@ -15,5 +15,6 @@ These graphs integrate detailed geospatial data that goes far beyond simple loca
 **Timeline**: 14.05.2024 - 14.11.2024
 
 ## Newscatcher API
-For background checks on the companies regarding the supply chain monitoring the **newscatcher API** was used, find out more: [</newscatcher>](https://www.newscatcherapi.com/)
+For background checks on the companies regarding the supply chain monitoring the **newscatcher API** was used, find out more: 
+[</newscatcher>](https://www.newscatcherapi.com/) 
 
