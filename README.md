@@ -16,5 +16,5 @@ These graphs integrate detailed geospatial data that goes far beyond simple loca
 
 ## Newscatcher API
 For background checks on the companies regarding the supply chain monitoring the **newscatcher API** was used, find out more: 
-[</newscatcher>](https://www.newscatcherapi.com/) 
+[</newscatcher>] (https://www.newscatcherapi.com/) 
 
