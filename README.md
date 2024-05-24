@@ -13,3 +13,6 @@ Traditional data management systems are often unable to adequately visualize and
 These graphs integrate detailed geospatial data that goes far beyond simple location information and captures environmental influences, risks and interactions between different nodes in the supply chain.
 
 **Timeline**: 14.05.2024 - 14.11.2024
+
+## Newscatcher API
+For background checks on the companies regarding the supply chain monitoring the **newscatcher API** was used, find out more: [</newscatcher>](https://www.newscatcherapi.com/)
